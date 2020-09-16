@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d9d210f-6c3c-4617-af8f-0369b663f01d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/작성코드/chap03/BinSearch_03_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/작성코드/chap03/Practice_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/작성코드/chap04/IntStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,7 +139,9 @@
       <workItem from="1599735714371" duration="32000" />
       <workItem from="1600003898925" duration="5425000" />
       <workItem from="1600080092978" duration="231000" />
-      <workItem from="1600080471376" duration="5829000" />
+      <workItem from="1600080471376" duration="5887000" />
+      <workItem from="1600184702969" duration="651000" />
+      <workItem from="1600262439277" duration="1314000" />
     </task>
     <servers />
   </component>
