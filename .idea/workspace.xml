@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d9d210f-6c3c-4617-af8f-0369b663f01d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/작성코드/chap04/IntQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/작성코드/chap04/Practice04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/작성코드/chap04/IntStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/작성코드/chap04/IntStack.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntStack">
+  <component name="RunManager" selected="Application.Practice04">
     <configuration name="BinSearch_03_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="작성코드.chap03.BinSearch_03_04" />
       <module name="DoItAlgorithm" />
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhysicalExaminationEx_02_10_Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="예제코드.chap02.PhysicalExaminationEx_02_10_Copy" />
+    <configuration name="Practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="작성코드.chap04.Practice04" />
       <module name="DoItAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="예제코드.chap02.*" />
+          <option name="PATTERN" value="작성코드.chap04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice04" />
         <item itemvalue="Application.IntStack" />
         <item itemvalue="Application.BinSearch_03_04" />
         <item itemvalue="Application.SeqSearchSen_03_03" />
         <item itemvalue="Application.SeqSearch_03_01" />
-        <item itemvalue="Application.PhysicalExaminationEx_02_10_Copy" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +143,8 @@
       <workItem from="1600184702969" duration="651000" />
       <workItem from="1600262439277" duration="1455000" />
       <workItem from="1600347902405" duration="3123000" />
-      <workItem from="1600439795230" duration="1607000" />
+      <workItem from="1600439795230" duration="2320000" />
+      <workItem from="1600480953412" duration="3698000" />
     </task>
     <servers />
   </component>
