@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d9d210f-6c3c-4617-af8f-0369b663f01d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/작성코드/chap04/IntQueueTester_04_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/작성코드/chap04/LastNElements_04C_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/작성코드/chap04/IntQueue_04_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/작성코드/chap04/IntQueue_04_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +108,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.IntQueueTester_04_04" />
@@ -145,6 +155,8 @@
       <workItem from="1600687473107" duration="4110000" />
       <workItem from="1600874089787" duration="607000" />
       <workItem from="1601036537818" duration="2678000" />
+      <workItem from="1601100795191" duration="93000" />
+      <workItem from="1601214682128" duration="1495000" />
     </task>
     <servers />
   </component>
