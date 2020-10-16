@@ -8,7 +8,7 @@ public class Hanoi_05_06 {
     }
 
 
-
+//test
     public static void main(String[] args) {
 
     }
