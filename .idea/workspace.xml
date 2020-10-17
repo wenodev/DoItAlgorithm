@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d9d210f-6c3c-4617-af8f-0369b663f01d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/작성코드/chap05/Hanoi_05_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/작성코드/chap05/Hanoi_05_06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
       <recent name="C:\Users\손주원\IdeaProjects\DoItAlgorithm\src\예제코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Recur_05_03">
+  <component name="RunManager" selected="Application.Hanoi_05_06">
     <configuration name="EuclidGCD_05_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="작성코드.chap05.EuclidGCD_05_02" />
       <module name="DoItAlgorithm" />
@@ -57,6 +58,19 @@
     </configuration>
     <configuration name="Factorial_05_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="작성코드.chap05.Factorial_05_01" />
+      <module name="DoItAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="작성코드.chap05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hanoi_05_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="작성코드.chap05.Hanoi_05_06" />
       <module name="DoItAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -94,19 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearch_03_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="작성코드.chap03.SeqSearch_03_01" />
-      <module name="DoItAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="작성코드.chap03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hanoi_05_06" />
         <item itemvalue="Application.Recur_05_03" />
         <item itemvalue="Application.EuclidGCD_05_02" />
         <item itemvalue="Application.Factorial_05_01" />
         <item itemvalue="Application.IntQueueTester_04_04" />
-        <item itemvalue="Application.SeqSearch_03_01" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +165,8 @@
       <workItem from="1602308972590" duration="874000" />
       <workItem from="1602310256694" duration="600000" />
       <workItem from="1602426654758" duration="707000" />
+      <workItem from="1602859747299" duration="93000" />
+      <workItem from="1602945686484" duration="303000" />
     </task>
     <servers />
   </component>
