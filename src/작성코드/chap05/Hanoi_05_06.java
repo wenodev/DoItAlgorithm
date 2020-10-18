@@ -14,6 +14,8 @@ public class Hanoi_05_06 {
             move(no=1,6-x-y, y);
     }
 
+    // git test
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
